@@ -1,5 +1,5 @@
-TypeScript Base Demo
-====================
+TypeScript For Loop Demo
+========================
 
 ```
 npm install
